@@ -7,7 +7,7 @@ CPU Monitor using NodeJS backend and view using NODEMCU with a 7 Segment LED
 ```bashardui
 npm install systeminformation
 ``` 
-This packaage allows user to get systeminformation of your machine in a simple way just by running the functions predefined.
+This package allows user to get systeminformation of your machine in a simple way just by running the functions predefined.
 
 For this project we will be using `si.currentLoad` and `si.networkInterfaces` to get the CPULOAD and network Speed of our machine which is then sent to the nodeMCU.
 
