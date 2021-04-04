@@ -9,7 +9,7 @@ const char* wifiName = "ZUKU-c446";
 const char* wifiPass = "b1a1003ea3c79";
 
 //Web Server address to read/write from
-const char *host = "http://CPU_MONITOR_IP_ADDRESS:3000";*/
+const char *host = "http://CPU_MONITOR_IP_ADDRESS:3000";
 //const char *host = "http://192.168.0.31:3000";
 void setup() {
 
